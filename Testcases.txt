@@ -1,0 +1,11 @@
+TC001: Login Valid
+
+TC002: Login Invalid
+
+TC003: Add first item to cart
+- Check if cart shows item number shown in cart
+
+TC004: Filter items from Low to High
+
+
+
